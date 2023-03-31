@@ -69,7 +69,7 @@ def ReverseString():
     return '''
         <body style="background-color: black;">
         <div style="margin: 40px auto; width:1000px;">
-        <h1 style="color: orange; text-align: center;">Cloud Guru Reversi!</h1>
+        <h1 style="color: orange; text-align: center;">Google Cloud Skills Reversi!</h1>
         <table style="width:400px; margin: 0 auto; font-size: 24px; color: white; line-height: 48px;">
             <tr><th>Program Function Output:</th><th>{}</th></tr>
             <tr><th>Python Function Output:</th><th>{}</th><tr>
